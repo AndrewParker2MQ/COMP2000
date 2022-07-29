@@ -30,6 +30,7 @@ DavePearce
 * Are either/both of these projects active at the moment? 🤔 If not, what do you think happened?
 
 Project A had been inactive for the last few months but was recently pushed to use V5 surveys.
+Project B has been inacive for nearly a month but its possible the developer is just taking a break.
 
 * 🤔 Which file in each project has had the most activity?
 
